@@ -52,5 +52,5 @@ https://csu0-my.sharepoint.com/:u:/g/personal/rmadulap_csu_edu/IQDw9O7GxXm8QIwka
 
 ## 👤 Author
 **Madulapally Rikvitha**  
-Aspiring Data Analyst | Power BI | SQL | Data Analytics
+Aspiring Data Analyst |Data Scientist| Power BI | SQL | Data Analytics
 
